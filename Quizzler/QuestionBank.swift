@@ -24,5 +24,7 @@ class QuestionBank {
         //Skipping one step and just creating the quiz item inside the append function
         list.append(Question(text: "A slug\'s blood is green.",  correctAnswer: true))
         
+        list.append(Question(text: "Approximately one quarter of human bones are in the feet",  correctAnswer: true))
+        
     }
 }
